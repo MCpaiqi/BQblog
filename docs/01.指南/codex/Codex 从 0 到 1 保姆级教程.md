@@ -1,3 +1,19 @@
+```
+title: Codex 从 0 到 1 保姆级教程
+date: 2026-08-22 15:46:25
+permalink: /reference/config
+titleTag: 推荐
+categories:
+  - 指南
+tags:
+  - 指南
+top: true
+sticky: 10
+coverImg: https://bqblog.pages.dev/blog/bg3.webp
+codeBlock:
+  collapseHeight: false
+```
+
 ![1-1](1-1.jpg)
 
 最近这几个月几乎每天都在陪伴我的工具，就是 Codex 了。

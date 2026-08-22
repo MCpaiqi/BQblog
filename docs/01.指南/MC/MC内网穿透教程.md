@@ -1,3 +1,20 @@
+---
+title: MC内网穿透教程
+date: 2026-06-07 22:12:35
+permalink: /reference/config
+titleTag: 推荐
+categories:
+  - 指南
+tags:
+  - 指南
+top: true
+sticky: 10
+coverImg: https://bqblog.pages.dev/blog/bg2.webp
+codeBlock:
+  collapseHeight: false
+
+---
+
 # MC内网穿透教程
 
 下载frp工具地址：https://github.com/fatedier/frp

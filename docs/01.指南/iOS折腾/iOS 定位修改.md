@@ -1,3 +1,20 @@
+---
+title: iOS 定位修改 · 小白保姆级教程（Shadowrocket 小火箭）
+date: 2026-07-13 20:03:42
+permalink: /reference/config
+titleTag: 推荐
+categories:
+  - 指南
+tags:
+  - 指南
+top: true
+sticky: 10
+coverImg: https://bqblog.pages.dev/blog/bg4.webp
+codeBlock:
+  collapseHeight: false
+
+---
+
 # iOS 定位修改 · 小白保姆级教程（Shadowrocket 小火箭）
 
 本教程教你用 **Shadowrocket（小火箭）** 把 iPhone 的定位改到世界任何地方，**无需越狱、无需电脑、无需开发者账号**。跟着一步步做即可。改完后可以使用上苹果的满血地图和外版设备iOS27的苹果AI
