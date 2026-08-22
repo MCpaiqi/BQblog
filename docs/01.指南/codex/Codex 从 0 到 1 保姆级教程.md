@@ -1,6 +1,6 @@
-```
+---
 title: Codex 从 0 到 1 保姆级教程
-date: 2026-08-22 15:46:25
+date: 2026-08-22 15:43:35
 permalink: /reference/config
 titleTag: 推荐
 categories:
@@ -12,7 +12,9 @@ sticky: 10
 coverImg: https://bqblog.pages.dev/blog/bg3.webp
 codeBlock:
   collapseHeight: false
-```
+
+
+---
 
 ![1-1](1-1.jpg)
 
