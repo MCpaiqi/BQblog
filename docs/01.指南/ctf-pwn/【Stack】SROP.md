@@ -1,7 +1,7 @@
 ---
 title: pwn【Stack】SROP
 date: 2026-02-27 14:31:22
-permalink: /reference/config
+permalink: /reference/srop
 titleTag: 教程
 categories:
   - 指南

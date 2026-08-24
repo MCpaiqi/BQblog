@@ -1,7 +1,7 @@
 ---
 title: pwn方向使用AI解题教程
 date: 2026-03-27 23:29:42
-permalink: /reference/config
+permalink: /reference/ai-pwn
 titleTag: 教程
 categories:
   - 指南

@@ -1,7 +1,7 @@
 ---
 title: iOS 定位修改 · 小白保姆级教程（Shadowrocket 小火箭）
 date: 2026-07-13 20:03:42
-permalink: /reference/config
+permalink: /reference/ios-location
 titleTag: 推荐
 categories:
   - 指南

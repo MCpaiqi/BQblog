@@ -1,7 +1,7 @@
 ---
 title: MC内网穿透教程
 date: 2026-06-07 22:12:35
-permalink: /reference/config
+permalink: /reference/mc-tunnel
 titleTag: 推荐
 categories:
   - 指南

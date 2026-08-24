@@ -12,7 +12,7 @@ export const teekConfig = defineTeekConfig({
     enabled: true,
     name: "MCpaiqi",
     bgStyle: "fullImg",
-    imgSrc: ["/blog/bg1.webp", "/blog/bg2.webp", "/blog/bg3.webp", "/blog/bg4.webp"],
+    imgSrc: ["/blog/bg1.webp", "/blog/bg2.webp", "/blog/bg4.webp"],
     imgInterval: 15000,
     mask: true,
     maskBg: "rgba(0, 0, 0, 0.4)",
@@ -32,38 +32,56 @@ export const teekConfig = defineTeekConfig({
     circleBgImg: "/blog/bg4.webp",
     circleBgMask: true,
     circleSize: 100,
-    status: {
-      icon: "💻",
-      size: 24,
-      title: "Coding",
-    },
+    //status: {
+    //  icon: "💻",
+    //  size: 24,
+    //  title: "Coding",
+    //},
   },
 
   // 博客功能配置
-  topArticle: { enabled: true, title: "${icon}精选文章", limit: 5 },
+  topArticle: { enabled: true, title: (icon) => `${icon}精选文章`, limit: 5 },
   category: {
     enabled: true,
     path: "/categories",
-    pageTitle: "${icon}全部分类",
-    homeTitle: "${icon}文章分类",
+    pageTitle: (icon) => `${icon}全部分类`,
+    homeTitle: (icon) => `${icon}文章分类`,
     limit: 10,
   },
   tag: {
     enabled: true,
     path: "/tags",
-    pageTitle: "${icon}全部标签",
-    homeTitle: "${icon}热门标签",
+    pageTitle: (icon) => `${icon}全部标签`,
+    homeTitle: (icon) => `${icon}热门标签`,
     limit: 21,
   },
   friendLink: {
     enabled: true,
-    title: "${icon}友情链接",
+    title: (icon) => `${icon}友情链接`,
     list: [
       {
-        name: "Teek 主题",
-        desc: "一个轻量、简洁高效、灵活配置的 VitePress 主题",
-        avatar: "https://vp.teek.top/teek-logo-mini.svg",
-        link: "https://vp.teek.top/",
+        name: "LUNCHAH's Blog",
+        desc: "ctf-re糕手",
+        avatar: "https://lunchah.github.io/avatar/head.jpg",
+        link: "https://lunchah.github.io/",
+      },
+      {
+        name: "Weir_su's Blog",
+        desc: "ctf-pwn糕手",
+        avatar: "https://weirsu.cn/weir-su-avatar.jpg",
+        link: "https://weirsu.cn/",
+      },
+      {
+        name: "yu1i's Blog",
+        desc: "ctf-misc糕手",
+        avatar: "https://www.yu1i.cn/wp-content/uploads/2026/03/cropped-b3428bf10c8e7b8c54cc7d1f538c9ffb-1.jpg",
+        link: "https://www.yu1i.cn/",
+      },
+      {
+        name: "hunsil's Blog",
+        desc: "ctf-web糕手",
+        avatar: "https://hunsil-sudo.github.io/assets/%E5%9B%BE%E6%A0%87/%E9%87%91%E6%AF%9B.jpg",
+        link: "https://hunsil-sudo.github.io/",
       },
     ],
     limit: 5,
@@ -79,6 +97,10 @@ export const teekConfig = defineTeekConfig({
   // 社交链接
   social: [
     { icon: "mdi:github", name: "GitHub", link: "https://github.com/MCpaiqi" },
+    { icon: "mdi:telegram", name: "Telegram", link: "https://t.me/bbq114514" },
+    { icon: "simple-icons:bilibili", name: "Bilibili", link: "https://space.bilibili.com/3546916981835812" },
+    // { icon: "simple-icons:gitee", name: "Gitee", link: "https://gitee.com/你的用户名" },
+    // { icon: "mdi:email-outline", name: "Email", link: "zcqzbq@163.com" },
   ],
 
   // 评论配置 (Giscus - 需要你在 https://giscus.app 配置后填入完整信息)
