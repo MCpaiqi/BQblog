@@ -1,7 +1,7 @@
 ---
 title: PCL无法下载mc解决方案
 date: 2026-10-20 22:12:35
-permalink: /reference/mc-tunnel
+permalink: /mc-pcl-download
 titleTag: 
 categories:
   - 指南
