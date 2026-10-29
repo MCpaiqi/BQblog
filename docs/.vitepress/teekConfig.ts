@@ -91,7 +91,7 @@ export const teekConfig = defineTeekConfig({
     createTime: "2025-06-01",
     wordCount: true,
     readingTime: true,
-    statistics: { provider: "busuanzi", siteView: true, pageView: true },
+    statistics: { provider: "vercount", siteView: true, pageView: true },
   },
 
   // 社交链接
