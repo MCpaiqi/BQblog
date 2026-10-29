@@ -12,7 +12,7 @@ export const teekConfig = defineTeekConfig({
     enabled: true,
     name: "MCpaiqi",
     bgStyle: "fullImg",
-    imgSrc: ["/blog/bg1.webp", "/blog/bg2.webp", "/blog/bg4.webp", "/blog/codex.webp", "/blog/ios27-location.webp"],
+    imgSrc: ["/blog/bg1.webp", "/blog/bg2.webp", "/blog/bg4.webp"],
     imgInterval: 15000,
     mask: true,
     maskBg: "rgba(0, 0, 0, 0.4)",

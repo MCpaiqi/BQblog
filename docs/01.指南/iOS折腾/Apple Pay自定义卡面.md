@@ -1,4 +1,4 @@
-```
+---
 title: Apple Pay自定义卡面教程
 date: 2026-10-29 15:04:27
 permalink: /reference/aircard
@@ -12,7 +12,10 @@ sticky: 10
 coverImg: https://bqblog.pages.dev/blog/aircard.webp
 codeBlock:
   collapseHeight: false
-```
+
+
+  
+---
 
 # Apple Pay自定义卡面教程
 

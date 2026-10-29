@@ -2,14 +2,14 @@
 title: iOS 定位修改 · 小白保姆级教程（iOS27已失效）
 date: 2026-07-13 20:03:42
 permalink: /reference/ios-location
-titleTag: 推荐
+titleTag: 
 categories:
   - 指南
 tags:
   - 指南
 top: true
 sticky: 10
-coverImg: https://bqblog.pages.dev/blog/bg4.webp
+coverImg: 
 codeBlock:
   collapseHeight: false
 

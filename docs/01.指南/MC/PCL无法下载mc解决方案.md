@@ -9,7 +9,7 @@ tags:
   - 指南
 top: true
 sticky: 10
-coverImg: 
+coverImg: https://bqblog.pages.dev/blog/PCL.webp
 codeBlock:
   collapseHeight: false
 
@@ -80,3 +80,7 @@ codeBlock:
 ![PCL-9](PCL-9.png)
 
 填入后编译该项目，就可以使用了。
+
+虽然打开后依旧有开源版提示，不过前面的forge api和微软正版id有填的话是不影响正常使用的
+
+![PCL-10](PCL-10.png)

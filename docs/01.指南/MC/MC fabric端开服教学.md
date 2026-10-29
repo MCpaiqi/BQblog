@@ -9,7 +9,7 @@ tags:
   - 指南
 top: true
 sticky: 10
-coverImg: 
+coverImg: https://bqblog.pages.dev/blog/server.webp
 codeBlock:
   collapseHeight: false
 
