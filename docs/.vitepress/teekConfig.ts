@@ -103,14 +103,20 @@ export const teekConfig = defineTeekConfig({
     // { icon: "mdi:email-outline", name: "Email", link: "zcqzbq@163.com" },
   ],
 
-  // 评论配置 (Giscus - 需要你在 https://giscus.app 配置后填入完整信息)
+  // 评论配置 (Giscus)
   comment: {
     provider: "giscus",
     options: {
       repo: "MCpaiqi/BQblog",
-      // repoId: "your-repo-id",       // 请在 https://giscus.app 获取
-      // category: "Announcements",    // 请在 https://giscus.app 获取
-      // categoryId: "your-category-id", // 请在 https://giscus.app 获取
+      repoId: "R_kgDOQZ_Ktw",
+      category: "Announcements",
+      categoryId: "DIC_kwDOQZ_Kt84DKVy4",
+      mapping: "pathname",
+      strict: "0",
+      reactionsEnabled: "1",
+      emitMetadata: "0",
+      inputPosition: "bottom",
+      lang: "zh-CN",
     },
   },
 
