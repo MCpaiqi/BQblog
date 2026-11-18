@@ -64,7 +64,7 @@ codeBlock:
 
 在手机上的Sidestore登录Apple ID（连着电脑的时候点登录会自动登录电脑上那个ID）后可以点击右边的 **7 DAYS**，也可以手动刷新一次 SideStore。
 
-> 免费 Apple ID 签名有效期为 7 天，**但并不是每 7 天都要重新连接电脑安装**，正常情况下，电脑只在第一次安装 SideStore 时需要使用。、
+> 免费 Apple ID 签名有效期为 7 天，**但并不是每 7 天都要重新连接电脑安装**，正常情况下，电脑只在第一次安装 SideStore 时需要使用。
 
 > 后续只需要打开 LocalDevVPN，在 SideStore 中刷新 App，即可重新续到 7 天。
 
